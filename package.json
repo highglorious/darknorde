@@ -2,13 +2,30 @@
   "name": "darknorde",
   "displayName": "Darknorde",
   "description": "Custom color theme for Visual Studio Code based on the Nord theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "highglorious",
   "engines": {
-    "vscode": "^1.97.0"
+    "node": ">=15.13",
+    "npm": ">=7.7",
+    "vscode": "^1.12.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "arctic",
+    "north",
+    "bluish",
+    "clean",
+    "elegant",
+    "dark",
+    "node"
+  ],
+  "galleryBanner": {
+    "color": "#0d121c",
+    "theme": "dark"
+  },
+  "license": "MIT",
   "contributes": {
     "themes": [
       {
