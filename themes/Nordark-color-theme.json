@@ -1,5 +1,6 @@
 {
   "name": "Nordark",
+  "type": "dark",
   "colors": {
     "activityBar.activeBackground": "#0d121c",
     "activityBar.activeBorder": "#88c0d0",

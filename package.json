@@ -1,7 +1,7 @@
 {
   "name": "nordark",
   "displayName": "Nordark",
-  "description": "nord theme with dark background",
+  "description": "Nord theme with dark background",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.97.0"
