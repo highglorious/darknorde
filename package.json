@@ -2,8 +2,9 @@
   "name": "darknorde",
   "displayName": "Darknorde",
   "description": "Custom color theme for Visual Studio Code based on the Nord theme",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "publisher": "highglorious",
+  "icon": "images/logo.png",
   "engines": {
     "node": ">=15.13",
     "npm": ">=7.7",
